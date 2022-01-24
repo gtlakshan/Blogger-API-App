@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827023623958",
+    "project_id": "techcypro-efe3d",
+    "storage_bucket": "techcypro-efe3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827023623958:android:b714baddeef5a2e74c7237",
+        "android_client_info": {
+          "package_name": "com.infinitystock.techcypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827023623958-0csm9qq3o2bsq3ll7roeugqq3jkbrb2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHyD1epChVlZMirF4BO4siPAk0y-zVLPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827023623958-0csm9qq3o2bsq3ll7roeugqq3jkbrb2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
