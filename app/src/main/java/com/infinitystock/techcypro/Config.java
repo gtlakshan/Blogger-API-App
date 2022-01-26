@@ -6,13 +6,13 @@ public class Config {
 
     //define your hosted file type from Google Drive or Direct JSON Url
     //supported value : Constant.GOOGLE_DRIVE or Constant.JSON_URL
-    public static final int JSON_FILE_HOST_TYPE = Constant.GOOGLE_DRIVE;
+    public static final int JSON_FILE_HOST_TYPE = Constant.JSON_URL;
 
     //only used if JSON_FILE_HOST_TYPE = Constant.GOOGLE_DRIVE;
     public static final String GOOGLE_DRIVE_JSON_FILE_ID = "12_vkcKuI5i02L6tcWj-BvagOewgkUUHd";
 
     //only used if json file is stored on Hosting with direct url, JSON_FILE_HOST_TYPE = Constant.JSON_URL
-    public static final String JSON_URL = "http://10.0.2.2/blogger_news_app/config.json";
+    public static final String JSON_URL = "https://my-json-server.typicode.com/gtlakshan/Remote-Config-Json/db";
 
     //"published": Order by the date the post was published
     //"updated": Order by the date the post was last updated
