@@ -5,28 +5,28 @@
     android:background="@color/colorPrimary">
 
     <ImageView
-        android:visibility="gone"
-
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:contentDescription="@string/content_description"
-        android:scaleType="centerCrop"
-        android:src="@drawable/bg_splash_default" />
-
-    <ImageView
 
         android:id="@+id/img_splash"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:contentDescription="@string/content_description"
+        android:layout_width="304dp"
+        android:layout_height="57dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/techcyper_logo" />
+        android:contentDescription="@string/content_description"
+        android:src="@drawable/bg_splash_default" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/version"
+        android:textColor="#FFFFFF"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"/>
 
     <ProgressBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="40dp" />
+        android:layout_marginBottom="100dp" />
 
 </RelativeLayout>

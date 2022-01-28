@@ -6,6 +6,8 @@
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/drawable/bg_button_ads.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/drawable/bg_button_grey_outline.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/drawable/bg_button_primary.xml" value="0.1" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/drawable/bg_gnt_button.xml" value="0.1" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/drawable/bg_splash_default_one.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/activity_category_detail.xml" value="0.25" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/activity_image_detail.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
@@ -17,8 +19,11 @@
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/activity_settings.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/activity_splash.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/activity_webview.xml" value="0.1" />
-        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/dialog_about.xml" value="0.15" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/dialog_about.xml" value="0.22" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/fragment_category.xml" value="0.1" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/fragment_favorite.xml" value="0.148828125" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/fragment_page.xml" value="0.148828125" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/fragment_post.xml" value="0.148828125" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/include_bottom_sheet.xml" value="0.22" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/include_failed.xml" value="0.14" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/include_no_favorite.xml" value="0.18" />
@@ -28,13 +33,13 @@
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/include_post_detail.xml" value="0.18" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_label_chips.xml" value="0.33" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_label_medium.xml" value="0.1" />
-        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_label_small.xml" value="0.1" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_label_small.xml" value="0.18" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_load_more.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_native_ad.xml" value="0.22" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_page.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_post.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_post_heading.xml" value="0.1" />
-        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_related.xml" value="0.12" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_related.xml" value="0.18" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/item_suggestion.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/shimmer_category_grid2_circle_md.xml" value="0.1" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/layout/shimmer_category_grid2_circle_sm.xml" value="0.1" />
@@ -54,7 +59,9 @@
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/menu_category_detail.xml" value="0.18" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/menu_image.xml" value="0.22" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/menu_main.xml" value="0.15" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/menu_page_detail.xml" value="0.148828125" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/menu_post_detail.xml" value="0.18" />
+        <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/menu_webview.xml" value="0.148828125" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/navigation_default.xml" value="0.16" />
         <entry key="..\:/Apps/Blogger-news-app-blogger-api-v3/Blogger News App - Blogger API v3-1.1.0/blogger_news_app_1.1.0/android_studio/BloggerNewsApp/app/src/main/res/menu/navigation_no_page.xml" value="0.25" />
       </map>
