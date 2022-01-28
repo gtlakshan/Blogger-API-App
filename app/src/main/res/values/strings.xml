@@ -78,9 +78,10 @@
     <string name="title_setting_rate">Rate us</string>
     <string name="title_setting_more_apps">More apps</string>
     <string name="title_setting_copyright">Copyright</string>
-    <string name="sub_title_setting_copyright">Copyright © 2021 Solodroid Developer. \nAll right reserved</string>
+    <string name="sub_title_setting_copyright">Copyright © 2021 Infinity Stock. \nAll right reserved</string>
     <string name="title_setting_about">About</string>
     <string name="msg_about_version">Version</string>
+    <string name="version">Version 1.0</string>
     <string name="title_menu_browser">Open In Browser</string>
 
 </resources>
